@@ -18,3 +18,5 @@ requisitos nao funcionais:
 4- Tratar erros previsiveis sem encerrar inesperadamente o aplicativo.
 5- Organizar o código em funções, módulos ou classes com nomes claros
 6- Solicitar confimação antes de excluir dados e antes de sair com alterações pendentes
+
+componentes minimos:
